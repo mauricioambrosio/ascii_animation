@@ -1,5 +1,5 @@
 //AsciiAnimBB.java
-//this class is only commented on the blocks and lines that I added
+//Compile this file to run the project
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
@@ -12,11 +12,11 @@ public class AsciiAnimBB extends JFrame implements ActionListener {
     public static final long serialVersionUID = 1L;
 
     AsciiCanvasBB cnvAnim = new AsciiCanvasBB();
-    JButton btnNew = new JButton("new");//new button cleans everything and starts at the head
+    JButton btnNew = new JButton("new");//button that cleans everything and starts at the head
     JButton btnPrev = new JButton("prev");
     JButton btnNext = new JButton("next");
 
-    JButton btnSaveLoad = new JButton("save/load");//new button that opens new object of nested class JFrame AnimeSaveLoadBB
+    JButton btnSaveLoad = new JButton("save/load");//button that opens new object of nested class JFrame AnimeSaveLoadBB
     JButton btnAnim = new JButton("animate");
     JButton btnIns = new JButton("insert");//insert button inserts node/frame behind the current node/frame
     JButton btnDel = new JButton("delete");//delete button deletes current node/frame

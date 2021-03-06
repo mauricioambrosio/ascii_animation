@@ -1,5 +1,4 @@
 //AsciiCanvasBB.java
-//for Black Belt
 
 import javax.swing.*;
 import java.awt.*;

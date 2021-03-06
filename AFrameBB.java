@@ -1,5 +1,5 @@
 //AFrameBB
-//class that represents one node/frame for Black Belt
+//class that represents one node/frame
 
 import java.io.Serializable;
 
@@ -15,7 +15,7 @@ public class AFrameBB implements Serializable {
         this.nextFrame = null;
     }
 
-    public AFrameBB(String content){//fancy constructor that initializes node with content
+    public AFrameBB(String content){//constructor that initializes node with content
         this.prevFrame = null;
         this.content = content;
         this.nextFrame = null;
