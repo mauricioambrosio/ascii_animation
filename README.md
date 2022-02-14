@@ -9,7 +9,7 @@ to compile and run the project do the following:
 3. run: java AsciiAnimBB 
 
 Screenshots:
-![image](https://user-images.githubusercontent.com/27931441/153883466-fe3be401-cf28-4f26-84e3-10f93d771e71.png)
+![image](https://user-images.githubusercontent.com/27931441/153884015-cf962ae0-fac9-40fe-9482-9006f2d252f7.png)
 
 ![image](https://user-images.githubusercontent.com/27931441/153883565-fb85818a-6a66-46c6-9d5d-3177cf565938.png)
 
